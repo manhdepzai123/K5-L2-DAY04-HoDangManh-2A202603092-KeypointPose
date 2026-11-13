@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603092",
+ "ten": "HoDangManh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "manh",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000176000.jpg",
+  "000000201702.jpg",
+  "000000295358.jpg",
+  "000000399983.jpg",
+  "000000431893.jpg",
+  "000000147780.jpg",
+  "000000156986.jpg",
+  "000000521817.jpg",
+  "000000043500.jpg",
+  "000000431988.jpg",
+  "000000572411.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_141135.jpg",
+  "face_300399.jpg",
+  "face_421231.jpg",
+  "face_436791.jpg",
+  "face_442231.jpg",
+  "face_186226.jpg",
+  "face_255797.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-HoDangManh"
+  },
+  "faces": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-HoDangManh"
+  }
+ }
+}
