@@ -36,11 +36,11 @@ Tôi đã đối chiếu cấu hình nhãn trong CVAT với file `src/keypoint_s
 
 | Nhóm ảnh | Số ảnh | Số skeleton đã gán | Số người dưới 60 px (không gán) | Số poster / gương / màn hình bỏ qua | Thời gian (phút) |
 |---|---:|---:|---|---:|---:|
-| `easy` | 5 | 5 | Chưa thống kê theo nhóm | 0 | ≈ 20 |
-| `occluded` | 3 | 6 | Chưa thống kê theo nhóm | 0 | ≈ 20 |
-| `back` | 2 | 4 | Chưa thống kê theo nhóm | 0 | ≈ 20 |
-| `small` | 1 | 4 | Chưa thống kê theo nhóm | 0 | ≈ 20 |
-| `crowd` | 1 | 2 | Chưa thống kê theo nhóm | 0 | ≈ 20 |
+| `easy` | 5 | 5 | 0 | 0 | ≈ 20 |
+| `occluded` | 3 | 6 | 0 | 0 | ≈ 20 |
+| `back` | 2 | 4 | 0 | 0 | ≈ 20 |
+| `small` | 1 | 4 | 0 | 0 | ≈ 20 |
+| `crowd` | 1 | 2 | 0 | 0 | ≈ 20 |
 | `faces` | 8 | 8 | — | 0 | ≈ 20 |
 | Tổng cộng | 20 | 29 | 5 người (chưa phân nhóm) | 0 | ≈ 120 |
 
